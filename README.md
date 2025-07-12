@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReWear - Community Clothing Exchange Platform
 
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to exchange clothing items through a points-based system or direct swaps.
@@ -193,3 +194,11 @@ This project is licensed under the MIT License.
 ---
 
 **Note:** Make sure to replace placeholder values (MongoDB URI, JWT secret, etc.) with your actual configuration before deploying. 
+=======
+Problem 3: ReWear – Community Clothing Exchange
+
+## Team Members
+- Sanket Patil - sanketpatil2041@gmail.com  
+- Gourav Chouhan - chouhangourav756@gmail.com  
+- Yashas Sawai - yashassawai@gmail.com
+>>>>>>> b7c35d7d0778a0480776ea8706228675e22dcdf9
