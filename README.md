@@ -5,6 +5,8 @@
 - Gourav Chouhan - chouhangourav756@gmail.com  
 - Yashas Sawai - yashassawai@gmail.com
 
+Video link: https://drive.google.com/file/d/1PE_EFUQHYy2y9pW5ewNP-r3XgXhK2JGk/view?usp=drivesdk
+
 ## 🌟 Features
 
 - **User Authentication** - Register, login, and profile management
