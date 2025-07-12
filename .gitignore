@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+
+# Build files
+/packages/client/build
+
+# Env files
+.env
+
+# SQLite database
+*.db
